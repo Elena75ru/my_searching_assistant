@@ -60,4 +60,4 @@
 
 **Ссылки:**
 *   DeepSeek: [https://www.deepseek.com](https://www.deepseek.com)
-*   Савви: [https://app.suvvy.ai/bots)  
+*   Савви: https://app.suvvy.ai/bots  
